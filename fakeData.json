@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "MacBook Pro 14-inch",
+      "category": "Laptop",
+      "brand": "Apple",
+      "price": 2999,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp14-spacegray-select-202110?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1632788574000"
+    },
+    {
+      "id": "2",
+      "productName": "XPS 15",
+      "category": "Laptop",
+      "brand": "Dell",
+      "price": 1599,
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9520/media-gallery/notebook-xps-9520-t-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&wid=3518&hei=2400&qlt=100,0&resMode=sharp2&size=3518,2400"
+    },
+    {
+      "id": "3",
+      "productName": "ThinkPad X1 Carbon Gen 10",
+      "category": "Laptop",
+      "brand": "Lenovo",
+      "price": 1699,
+      "image": "https://p1-ofp.lenovo.com/product/lenovo/2022/61/616428/616428-1.png"
+    },
+    {
+      "id": "4",
+      "productName": "ROG Zephyrus G14",
+      "category": "Gaming Laptop",
+      "brand": "ASUS",
+      "price": 1599,
+      "image": "https://dlcdnwebimgs.asus.com/gain/4A0F6B3B-4F8C-4B0D-8E6B-0D2D1B3B3B3B/w717/h525"
+    },
+    {
+      "id": "5",
+      "productName": "Surface Laptop 5",
+      "category": "Laptop",
+      "brand": "Microsoft",
+      "price": 1299,
+      "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Surface-Laptop-5-Content-Card-Platinum-Alcantara-FY23?wid=297&hei=167&fit=crop"
+    }
+  ]
+}
